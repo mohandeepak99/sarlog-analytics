@@ -12,7 +12,7 @@ The dataset contains every single minute of cpu resource utilization
 
 3.Create a jar file for this project.
 
-4.start the hadoop services in your terminal using the command 
+4.start the hadoop services in your terminal using the command the hadoop command.
 
 ---
 
